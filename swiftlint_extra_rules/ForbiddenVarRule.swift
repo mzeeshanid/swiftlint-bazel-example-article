@@ -1,4 +1,5 @@
 import SwiftSyntax
+import Foundation
 
 @SwiftSyntaxRule
 struct ForbiddenVarRule: Rule {
